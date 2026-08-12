@@ -1,7 +1,7 @@
 {
-   "author": ["MahMUD"],
+   "author": ["XINATO"],
     "facebookAccount": {
-    "email": "mahmudx077@gmail.com",
+    "email": "",
     "password": "",
     "2FASecret": "",
     "i_user": "",
@@ -18,7 +18,7 @@
     "ignoreCommand": []
   },
 "adminBot": [
-    "100037951718438"
+    "61567729792240"
   ],
   "whiteListMode": {
     "enable": false,
