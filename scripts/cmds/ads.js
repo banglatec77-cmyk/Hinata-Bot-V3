@@ -12,7 +12,7 @@ module.exports = {
                 name: "ads",
                 aliases: ["ad"],
                 version: "1.7",
-                author: "MahMUD",
+                author: "Xinato",
                 countDown: 10,
                 role: 0,
                 description: {
